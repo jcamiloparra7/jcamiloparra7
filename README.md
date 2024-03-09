@@ -1,4 +1,4 @@
-Hey there! I'm a passionate Data Engineer who loves turning data into powerful insights and tools for both business analytics and research.
+Hey there! I'm Data Engineer who loves turning data into powerful insights and tools for both business analytics and research.
 
 ## 🛠 Skills
 - **Programming Languages**: SQL, Python, Bash
@@ -27,4 +27,4 @@ And during my time as an **Undergraduate Researcher**, I:
 I'm currently pursuing an MSc in Systems Engineering and Computer Science and hold BSc degrees in Industrial and Chemical Engineering from Universidad Industrial de Santander. I've also earned several certifications, including Databricks Data Engineer Associate and AWS Certified Cloud Practitioner.
 
 ## 🌱 What I'm Up To
-When I'm not wrangling data, you might find me exploring new data engineering tools, or hiking in the beautiful mountains of Bucaramanga.
+When I'm not wrangling data, you might find me exploring the natural world.
