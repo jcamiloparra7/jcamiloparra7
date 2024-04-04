@@ -27,4 +27,4 @@ And during my time as an **Undergraduate Researcher**, I:
 I'm currently pursuing an MSc in Systems Engineering and Computer Science and hold BSc degrees in Industrial and Chemical Engineering from Universidad Industrial de Santander. I've also earned several certifications, including Databricks Data Engineer Associate and AWS Certified Cloud Practitioner.
 
 ## 🌱 What I'm Up To
-When I'm not wrangling data, you might find me exploring the natural world.
+When not working spending time outside.
