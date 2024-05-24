@@ -1,4 +1,4 @@
-Hey there! I'm Data Engineer who loves turning data into insights and tools for both business analytics and research.
+Hey there! I'm a Data Engineer who loves turning data into insights and tools for both business analytics and research.
 
 ## 🛠 Skills
 - **Programming Languages**: SQL, Python, Bash
