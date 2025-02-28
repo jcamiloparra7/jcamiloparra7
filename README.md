@@ -1,3 +1,5 @@
+Hey there! I'm a Data Engineer.
+
 ## 🛠 Skills
 - **Programming Languages**: SQL, Python, Bash
 - **Databases**: BigQuery, Snowflake, PostgreSQL, AWS RDS, Redshift, AWS S3, GCS, MySQL, PrestoSQL, AWS DynamoDB, SQLite.
