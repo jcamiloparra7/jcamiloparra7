@@ -3,7 +3,7 @@ Hey there! I'm a Data Engineer.
 ## 🛠 Skills
 - **Programming Languages**: SQL, Python, Bash
 - **Databases**: BigQuery, Snowflake, PostgreSQL, AWS RDS, Redshift, AWS S3, GCS, MySQL, PrestoSQL, AWS DynamoDB, SQLite.
-- **Data Tools**: dbt, Apache Airflow, Apache Spark, AWS Glue, AWS Kinesis, Scikit-learn, NumPy, Pandas
+- **Data Tools**: dbt, Apache Airflow, Apache Spark, AWS Glue, AWS Kinesis.
 - **Visualization Tools**: Seaborn, Power BI, Redash
 - **Cloud Platforms**: AWS, GCP
 - **Other Technologies**: Docker, Github Actions, AWS Lambda, Terraform, Jupyter Notebooks, AWS EC2, AWS SNS, AWS Step functions, NLTK, Vader, Flask, Google VM, REDCap
