@@ -1,12 +1,12 @@
 Hey there! I'm a Data Engineer.
 
 ## 🛠 Skills
-- **Programming Languages**: SQL, Python, Bash
-- **Databases**: BigQuery, Snowflake, PostgreSQL, AWS RDS, Redshift, AWS S3, GCS, MySQL, PrestoSQL, AWS DynamoDB, SQLite.
-- **Data Tools**: dbt, Apache Airflow, Apache Spark, AWS Glue, AWS Kinesis.
-- **Visualization Tools**: Seaborn, Power BI, Redash
+- **Programming Languages**: Python, Bash, SQL
+- **Data Stores**: BigQuery, Snowflake, PostgreSQL, AWS RDS, Redshift, AWS S3, GCS, MySQL, PrestoSQL, AWS DynamoDB, SQLite.
+- **Data Tools**: Apache Airflow, Apache Spark, dbt, AWS Glue, AWS Kinesis.
+- **Visualization Tools**: Seaborn, Matplotlib, Redash, Power BI
 - **Cloud Platforms**: AWS, GCP
-- **Other Technologies**: Docker, Github Actions, AWS Lambda, Terraform, Jupyter Notebooks, AWS EC2, AWS SNS, AWS Step functions, NLTK, Vader, Flask, Google VM, REDCap
+- **Other Technologies**: Docker, Github Actions, AWS Lambda, Terraform, Cloudformation, Jupyter Notebooks, AWS EC2, AWS SNS, AWS Step functions, NLTK, Vader, Flask, Google VM, REDCap
 
 ## 💼 Experience
 As a **Data Engineer** at Factored, I've been instrumental in:
